@@ -1,0 +1,17 @@
+# Media and large files
+*.mp4
+*.mp3
+*.m4a
+*.wav
+*.ttf
+
+# Logs and temporary files
+*.log
+concat_list.txt
+_segmentos_tmp/
+__pycache__/
+.vscode/
+audio_tmp.mp3
+
+# Config with possibly sensitive data (though we might need some parts of it)
+# config.py # Keeping it for now as user might want it, but usually sensitive stuff goes to .env

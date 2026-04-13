@@ -1,0 +1,15 @@
+1
+00:06:21,500 --> 00:06:25,500
+Qué onda, gente? Bienvenidos a Ethos IA. Hoy vamos a subir de nivel.
+
+2
+00:06:26,300 --> 00:06:40,500
+Muchos me han preguntado cómo tener un agente de IA que sea realmente suyo, sin tener que pagar suscripciones mensuales a plataformas intermediarias que te cobran por cada mensaje o te ponen límites absurdos.
+
+3
+00:06:40,800 --> 00:06:42,500
+La respuesta es OpenClaw.
+
+4
+00:06:43,300 --> 00:06:46,500
+En este video vamos a instalarlo desde cero en un
